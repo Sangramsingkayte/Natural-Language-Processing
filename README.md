@@ -11,3 +11,8 @@ The word vectors are available for download from the following directory:
 http://evexdb.org/pmresources/vec-space-models/
 We also provide a set of word vectors induced on a combination of PubMed and PMC texts with texts extracted from a recent English Wikipedia dump. To get started with word vectors induced from a large corpus of biomedical and general-domain texts, download these vectors here (4GB file).
 # Natural-Language-Processing
+
+
+https://medium.com/@bsangramsing/building-a-natural-language-processing-pipeline-9d93fa8ebdfb
+
+https://medium.com/@bsangramsing/text-classification-3d355536a80
