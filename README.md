@@ -13,6 +13,6 @@ We also provide a set of word vectors induced on a combination of PubMed and PMC
 # Natural-Language-Processing
 
 
-https://medium.com/@bsangramsing/building-a-natural-language-processing-pipeline-9d93fa8ebdfb
+https://chatbotslife.com/building-a-natural-language-processing-pipeline-1d9ffe051b94
 
 https://medium.com/@bsangramsing/text-classification-3d355536a80
