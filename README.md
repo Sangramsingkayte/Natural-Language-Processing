@@ -14,6 +14,6 @@ We also provide a set of word vectors induced on a combination of PubMed and PMC
 
 [Natural-Language-Processing](https://chatbotslife.com/building-a-natural-language-processing-pipeline-1d9ffe051b94)
 
-[Process large wav files](./notebooks/04_ProcessLargeAudioFiles.ipynb)
+[Text-Classification](https://medium.datadriveninvestor.com/text-prediction-using-long-short-term-memory-a42fc66e22c3)
 
-https://medium.com/@bsangramsing/text-classification-3d355536a80
+
